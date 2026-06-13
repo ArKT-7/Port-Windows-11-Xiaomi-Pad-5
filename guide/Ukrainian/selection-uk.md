@@ -23,7 +23,7 @@
 | - Важче і довше | - Легко і швидко |
 | - Потрібен ПК | - ПК не потрібен |
 | - Легко усувати помилки у разі їх виникнення | - Може бути трохи важче усунути помилки |
-| [**`Посібник зі встановлення вручну`**](1-partition-uk.md) | [**`WinInstaller гайд`**](https://github.com/Kumar-Jy/Windows-in-NABU-Without-PC/) |
+| [**`Посібник зі встановлення вручну`**](1-partition-uk.md) | [**`WinInstaller гайд`**](https://github.com/Kumar-Jy/Windows-in-NABU-Without-PC/blob/main/guide/Installation.md) |
 
 </div>
 
